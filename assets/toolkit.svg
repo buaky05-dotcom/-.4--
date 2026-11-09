@@ -1,1 +1,10 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" role="img" aria-label="เครื่องมือช่าง">
+ <defs><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#102a2d" flood-opacity=".4"/></filter></defs>
+ <g filter="url(#shadow)">
+  <g transform="rotate(-32 250 260)"><rect x="224" y="160" width="47" height="287" rx="15" fill="#d1e7dc"/><rect x="236" y="234" width="23" height="195" rx="11" fill="#a1bcb7"/><path d="M222 174 Q163 124 194 59 L225 105 L263 105 L294 59 Q324 124 273 174Z" fill="#d8e9e2" stroke="#9cbab3" stroke-width="8"/></g>
+  <g transform="rotate(35 350 270)"><rect x="329" y="165" width="43" height="277" rx="13" fill="#e59e5d"/><rect x="340" y="227" width="21" height="190" rx="7" fill="#c47c44"/><path d="M272 128 Q267 111 289 101 L398 101 Q414 103 415 119 L414 164 Q412 180 395 180 L291 180 Q275 178 272 162Z" fill="#cddcd5"/><path d="M287 110 H395 V133 H287Z" fill="#e4ece7"/></g>
+  <g transform="rotate(75 327 258)"><rect x="308" y="159" width="38" height="257" rx="17" fill="#b9d75b"/><rect x="314" y="271" width="26" height="126" rx="10" fill="#6b936b"/><path d="M309 155 L319 83 L334 83 L345 155Z" fill="#dce8e2"/><path d="M319 83 L327 41 L334 83Z" fill="#e2a16e"/></g>
+  <g transform="rotate(-10 440 340)"><rect x="423" y="256" width="38" height="188" rx="7" fill="#d5dfd7"/><g stroke="#79928c" stroke-width="3"><path d="M427 277h14 M427 299h9 M427 321h14 M427 343h9 M427 365h14 M427 387h9 M427 409h14"/></g></g>
+  <circle cx="138" cy="380" r="17" fill="#d4ed78"/><circle cx="510" cy="163" r="9" fill="#f39a70"/><path d="M95 205l24 -15m-16 25l24 -15M490 382l28 14m-27-28l28 14" stroke="#cbe27c" stroke-width="6" stroke-linecap="round"/>
+ </g>
+</svg>
